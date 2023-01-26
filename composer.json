@@ -1,0 +1,14 @@
+{
+    "name": "ilegacy/genesis",
+    "authors": [
+        {
+            "name": "Shakir",
+            "email": "shakir.webdevelop@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Genesis\\": "src"
+        }
+    }
+}
